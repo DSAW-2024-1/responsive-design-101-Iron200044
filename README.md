@@ -24,6 +24,15 @@ El objetivo de este taller es hacer que la página que ya desarrollamos se vea c
 - En el archivo `index.html` se encuentra el punto de inicio para el desarrollo del taller, ahí ya se encuentran los textos y la estructura básica del componente HTML. **Es indispensable que se trabaje sobre ese mismo archivo.**
 - En el documento `style-guide.md` se encuentran las variables de diseño que utilizaremos para este desarrollo: esas variables incluyen tamaños y tipos de fuente, dimensiones del viewport, colores, etc.
 
+## Capturas de los viewports:
+- Celular:
+- <img id="image" src="Celular pagina.jpeg" alt="image-cel" width="670" height="340">
+- Tablet:
+- <img id="image" src="tablet pagina.jpeg" alt="image-tal" width="670" height="340">
+- Escritorio:
+- <img id="image" src="esccritorio pagina.jpeg" alt="image-desk" width="670" height="340">
+
+## Link de la pagina web: https://dsaw-2024-1.github.io/responsive-design-101-Iron200044/
 
 ## Evaluación
 | Criterio                                          | Puntos |
